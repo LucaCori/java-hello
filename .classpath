@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MavenHelloWorld/src/main/java"/>
+	<classpathentry kind="src" path="PDFHelloWorld/src/main/java"/>
+	<classpathentry kind="src" path="WindowsApplication/src/main/java"/>
+	<classpathentry kind="lib" path="MavenHelloWorld/target/hello-world-maven-0.1.0-shaded.jar"/>
+	<classpathentry kind="lib" path="MavenHelloWorld/target/hello-world-maven-0.1.0.jar"/>
+	<classpathentry kind="lib" path="MavenHelloWorld/target/original-hello-world-maven-0.1.0.jar"/>
+	<classpathentry kind="lib" path="PDFHelloWorld/target/hello-world-maven-0.1.0-shaded.jar"/>
+	<classpathentry kind="lib" path="PDFHelloWorld/target/hello-world-maven-0.1.0.jar"/>
+	<classpathentry kind="lib" path="PDFHelloWorld/target/original-hello-world-maven-0.1.0.jar"/>
+	<classpathentry kind="lib" path="WindowsApplication/target/hello-world-maven-0.1.0-shaded.jar"/>
+	<classpathentry kind="lib" path="WindowsApplication/target/hello-world-maven-0.1.0.jar"/>
+	<classpathentry kind="lib" path="WindowsApplication/target/original-hello-world-maven-0.1.0.jar"/>
+	<classpathentry kind="output" path="MavenHelloWorld/target/classes"/>
+</classpath>
